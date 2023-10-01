@@ -43,16 +43,16 @@ const projectList = [
     url: "https://github.com/sadhana70/SuperMario.git",
   },
   {
-    title: "My Resume Site",
+    title: "Poll App",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "A basic poll application that consists of a public site that lets people view polls and vote in them suing Django.",
+    url: "https://github.com/sadhana70/poll-app.git",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Agricultural Crops Prediction System",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "A machine learning project that predicts crops that are suitable to grow under given environment conditions.      ",
+    url: "https://github.com/sadhana70/agricultural-crop-recommendation.git",
   },
 ];
 
